@@ -1,5 +1,16 @@
 # This first project on React
 
+# Task
+
+1. Отобразите позицию для каждого хода в формате (колонка, строка) в списке истории ходов.
+2. Выделите выбранный элемент в списке ходов.
+3. Перепишите Board, используя вложенные циклы для создания клеток, вместо их жёсткого кодирования.
+4. Добавьте переключатель, который позволит вам сортировать ходы по возрастанию или по убыванию.
+5. Когда кто-то выигрывает, подсветите три клетки, которые привели к победе.
+6. ~~Когда победителя нет, покажите сообщение о том, что игра окончилась вничью.~~
+
+# React info
+
 These tic-tac-toe are made according to the official React documentation (https://ru.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,3 +41,4 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
